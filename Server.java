@@ -3,6 +3,7 @@ package lab;
 import java.io.*;
 import java.net.*;
 
+
 public class Server {
 
     static Box oblicz(Box x) {

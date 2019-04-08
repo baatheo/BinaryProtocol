@@ -4,6 +4,7 @@ import static java.lang.Math.*;
 
 import java.io.UnsupportedEncodingException;
 
+
 public class Box {
 	final int rozmiar_liczb = 3;
 	// final long rozmiar = (long) pow(2,63);

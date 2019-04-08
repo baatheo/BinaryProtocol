@@ -1,7 +1,9 @@
 package lab;
+
 import static java.lang.Math.*;
 import java.util.Random;
 import java.util.Scanner;
+
 
 public class Menu {
     //final long size = (long) pow(2,63);

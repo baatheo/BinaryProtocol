@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.LinkedList;
 
 
-
 public class Client {
 
     public static boolean same(Box y, Box x){
